@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Advent of Code 2021 👨🏼‍💻
+
+![](https://img.shields.io/badge/stars%20⭐-4-yellow)
+
+I'm challenging myself to do this in JavaScript rather than R.
