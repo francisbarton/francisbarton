@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/stars%20⭐-7-yellow)
 
-I'm challenging myself to do this in JavaScript rather than R.
+I'm challenging myself to do this in JavaScript rather than R. It's a rather slow process!
+
+[Here's my AoC repository.](https://github.com/francisbarton/adventofcode)
