@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ## Advent of Code 2021 👨🏼‍💻
 
-![](https://img.shields.io/badge/stars%20⭐-4-yellow)
+![](https://img.shields.io/badge/stars%20⭐-7-yellow)
 
 I'm challenging myself to do this in JavaScript rather than R.
