@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://user-images.githubusercontent.com/1819920/145449130-90bf3e24-8498-4cb3-8134-790502888ad2.jpg" alt="my profile photo" width=256 height=256 />
+
+
 <!--
 **francisbarton/francisbarton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
