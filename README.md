@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - I love making data tools in R
 - I know I ought to blog about my learning but I never get round to it
 - I'm a big fan of functional programming, APIs, markdown, reproducibility...
-- and, in theory, test-driven development
+- ... and, in theory, test-driven development
 - I have several R projects here in my pinned repos that you can help with if you like!
-- Ask me about: purrr, sf and APIs. And trying to get a proper HTML5 template in RMarkdown.
+- Ask me about: `purrr`, `sf` and APIs. And trying to get a proper HTML5 template in RMarkdown.
 
 
 ### Advent of Code 2021 👨🏼‍💻
