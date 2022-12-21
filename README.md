@@ -39,6 +39,4 @@ In 2022 I am back doing it in R. I'd like to try JavaScript again in future.
 
 ### Advent of Code 2021 👨🏼‍💻
 
-![](https://img.shields.io/badge/stars%20⭐-7-yellow)
-
 I challenged myself to do this in JavaScript rather than R. It was a rather slow process!
