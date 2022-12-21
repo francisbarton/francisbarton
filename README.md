@@ -27,11 +27,18 @@ Here are some ideas to get you started:
 - I have several R projects here in my pinned repos that you can help with if you like!
 - Ask me about: `purrr`, `sf` and APIs. And trying to get a proper HTML5 template in RMarkdown.
 
+### Advent of Code 2022
+
+[Advent of Code](https://adventofcode.com) is a really fun and pretty challenging programming adventure/game/competition that happens every December.
+
+In 2022 I am back doing it in R. I'd like to try JavaScript again in future.
+
+![](https://img.shields.io/badge/day%20📅-9-blue) ![](https://img.shields.io/badge/stars%20⭐-18-yellow)
+
+[Here's my AoC repository.](https://github.com/francisbarton/adventofcode)
 
 ### Advent of Code 2021 👨🏼‍💻
 
 ![](https://img.shields.io/badge/stars%20⭐-7-yellow)
 
-I'm challenging myself to do this in JavaScript rather than R. It's a rather slow process!
-
-[Here's my AoC repository.](https://github.com/francisbarton/adventofcode)
+I challenged myself to do this in JavaScript rather than R. It was a rather slow process!
