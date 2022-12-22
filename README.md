@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 In 2022 I am back doing it in R. I'd like to try JavaScript again in future.
 
-![](https://img.shields.io/badge/day%20📅-9-blue) ![](https://img.shields.io/badge/stars%20⭐-18-yellow)
+![](https://img.shields.io/badge/day%20📅-22-blue) ![](https://img.shields.io/badge/stars%20⭐-18-yellow)
 
 [Here's my AoC repository.](https://github.com/francisbarton/adventofcode)
 
