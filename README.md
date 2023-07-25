@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 [Advent of Code](https://adventofcode.com) is a really fun and pretty challenging programming adventure/game/competition that happens every December.
 
 In 2022 I am back doing it in R. I'd like to try JavaScript again in future.
+Or perhaps Haskell will be the flavour of the month in December 2023...?
 
 ![](https://img.shields.io/badge/stars%20⭐-18-yellow)
 
