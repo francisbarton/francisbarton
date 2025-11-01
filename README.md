@@ -1,43 +1,67 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-<img src="https://user-images.githubusercontent.com/1819920/145449130-90bf3e24-8498-4cb3-8134-790502888ad2.jpg" alt="my profile photo" width=256 height=256 />
--->
+I'm Fran. Here's some headlines:
 
+### ![R](https://www.r-project.org/favicon-32x32.png) 📦 development
 
-<!--
-**francisbarton/francisbarton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I 💙 making data tools as R packages
+- My specialisms are working with APIs, and geospatial or demographic projects
+- I am tidyverse-centric. I just think dplyr, ggplot2 and purrr in particular are fantastic toolkits
+- I have an [R-universe][runiv] presence
+- Other favourite packages include `{sf}` (and don't sleep on [`{sfext}`][sfext]), `{cli}` and 
 
-Here are some ideas to get you started:
+[runiv]: https://francisbarton.r-universe.dev/
+[sfext]: https://elipousson.github.io/sfext/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Preferences
 
-- I love making data tools in R
-- I know I ought to blog about my learning but I never get round to it
-- I'm a big fan of functional programming, APIs, markdown, reproducibility...
-- ... and, in theory, test-driven development
-- I have several R projects here in my pinned repos that you can help with if you like!
-- Ask me about: `purrr`, `sf` and APIs. And trying to get a proper HTML5 template in RMarkdown.
+- I prefer user-powered and open products and platforms where possible - see the [indieweb principles][iw] for example&hellip;
+- &hellip; hence I try to avoid closed and [enshittified][ensh] platforms where I can. I'm also pretty averse to using LLMs - I don't think they are going to do us good as a society
+- I'm moving a lot of my personal repositories to 🌄 [Codeberg][cberg]
+- I try to prioritise ♻️ [reproducibility][rap] in my work
+- I favour the ![lambda symbol][λ] functional programming paradigm.
 
-### Advent of Code 2022
+[iw]: https://indieweb.org/principles
+[cberg]: https://codeberg.org/francisbarton
+[rap]: https://nhsengland.github.io/nhs-r-reporting/tutorials/rap.html
+[ensh]: https://pluralistic.net/2025/01/20/capitalist-unrealism/
+[λ]: https://www.iconfinder.com/icons/3011432/download/png/32
 
-[Advent of Code](https://adventofcode.com) is a really fun and pretty challenging programming adventure/game/competition that happens every December.
+### Learning
 
-In 2022 I am back doing it in R. I'd like to try JavaScript again in future.
-Or perhaps Haskell will be the flavour of the month in December 2023...?
+- I'm really enjoying learning [Julia][jlorg]
+- I might get tempted to do some Rust development to support R, just for fun, [like Josiah does][jpyt]
+- I find [Tidy Tuesday][tt] and [Advent of Code][aoc] really useful games for helping me learn stuff.
 
-![](https://img.shields.io/badge/stars%20⭐-18-yellow)
+[jlorg]: https://julialang.org/
+[jpyt]: https://www.youtube.com/watch?v=yaxfqpECIZ0
+[tt]: https://github.com/rfordatascience/tidytuesday
+[aoc]: https://adventofcode.com/
 
-[Here's my AoC repository.](https://github.com/francisbarton/adventofcode)
+### I'm currently working on...
 
-### Advent of Code 2021 👨🏼‍💻
+- getting into the habit of documenting my learning and writing things up in a blog
+- writing more effective unit tests and developing in a test-driven or behaviour-driven way
+- developing my reflective practice as a data professional.
 
-I challenged myself to do this in JavaScript rather than R. It was a rather slow process!
+### Other skills etc
+
+- I have quite a bit of experience with HTML and S/CSS, though I'm pretty old school and not up to speed with modern web dev workflows. I have a soft spot for [Eleventy][11ty]
+- I use Windows for work but I'd rather be using Arch Linux
+
+[11ty]: https://11ty.dev
+
+### Away from screens
+
+I have been mostly
+
+- 🌾🌾 mowing with my scythe
+- 🎶📖 singing shapenote tunes
+- 🏕️🚴🏻‍♂️ doing random adventures
+- 🧑🏻‍🌾🥬 trying to get edible things to grow in my allotment, and
+- 🏏🎾 playing some sports (honestly) _very_ badly.
+
+### Contact
+
+You're welcome to email me about any of my repos here.
+You can find me on 🦣 [mastodon](https://post.lurk.org/@ludictech) and 🦋 [bluesky](https://bsky.app/profile/ludictechnologies.bsky.social)
