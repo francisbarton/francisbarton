@@ -8,7 +8,7 @@ I'm Fran. Here's some headlines:
 - My specialisms are working with APIs, and geospatial or demographic projects
 - I am tidyverse-centric. I just think dplyr, ggplot2 and purrr in particular are fantastic toolkits
 - I have an [R-universe][runiv] presence
-- Other favourite packages include `{sf}` (and don't sleep on [`{sfext}`][sfext]), `{cli}` and 
+- Other favourite packages include `{sf}` (and don't sleep on [`{sfext}`][sfext]), `{cli}` and `{httr2}`
 
 [runiv]: https://francisbarton.r-universe.dev/
 [sfext]: https://elipousson.github.io/sfext/
