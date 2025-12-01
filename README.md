@@ -19,13 +19,12 @@ I'm Fran. Here's some headlines:
 - &hellip; hence I try to avoid closed and [enshittified][ensh] platforms where I can. I'm also pretty averse to using LLMs - I don't think they are going to do us good as a society
 - I'm moving a lot of my personal repositories to 🌄 [Codeberg][cberg]
 - I try to prioritise ♻️ [reproducibility][rap] in my work
-- I favour the ![lambda symbol][λ] functional programming paradigm.
+- I favour a functional programming approach
 
 [iw]: https://indieweb.org/principles
 [cberg]: https://codeberg.org/francisbarton
 [rap]: https://nhsengland.github.io/nhs-r-reporting/tutorials/rap.html
 [ensh]: https://pluralistic.net/2025/01/20/capitalist-unrealism/
-[λ]: https://www.iconfinder.com/icons/3011432/download/png/32
 
 ### Learning
 
